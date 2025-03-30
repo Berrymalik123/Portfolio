@@ -1,0 +1,14 @@
+@import url("https://cdn.flyonui.com/fy-assets/css/main.css");
+
+.mockup-phone-camera {
+    display: block !important;
+    width: 16px;
+    height: 16px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+    
